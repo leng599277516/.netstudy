@@ -3,3 +3,5 @@
 ################################################################################
 
 /Lp.NetSolution/packages
+/Lp.NetSolution/LP.DataBase/bin/Debug
+/Lp.NetSolution/LP.DataBase/obj/Debug
